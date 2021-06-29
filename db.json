@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "Navneet Bajpai",
+      "username": "Navi",
+      "email": "navneetbajpai1999@gmail.com",
+      "phone": "9171441052",
+      "website": "www.navneet.com",
+      "id": 11
+    },
+    {
+      "name": "shubh bajpai",
+      "username": "s",
+      "email": "shub@gmail.com",
+      "phone": "1234",
+      "website": "wwwshubh",
+      "id": 13
+    }
+  ]
+}
